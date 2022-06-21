@@ -1,0 +1,15 @@
+a {
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+  color: black;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+}
+
+a:hover {
+  color: red;
+}
